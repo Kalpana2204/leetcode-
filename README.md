@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kalpana2204/leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kalpana2204/leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kalpana2204/leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kalpana2204/leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kalpana2204/leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
