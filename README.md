@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Kalpana2204/leetcode-/tree/master/0997-find-the-town-judge) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kalpana2204/leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
@@ -71,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Kalpana2204/leetcode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Kalpana2204/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0997-find-the-town-judge](https://github.com/Kalpana2204/leetcode-/tree/master/0997-find-the-town-judge) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Kalpana2204/leetcode-/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
