@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kalpana2204/leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kalpana2204/leetcode-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kalpana2204/leetcode-/tree/master/0226-invert-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kalpana2204/leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Kalpana2204/leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kalpana2204/leetcode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Kalpana2204/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kalpana2204/leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kalpana2204/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Kalpana2204/leetcode-/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kalpana2204/leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
