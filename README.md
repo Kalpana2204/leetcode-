@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kalpana2204/leetcode-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kalpana2204/leetcode-/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kalpana2204/leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0785-is-graph-bipartite](https://github.com/Kalpana2204/leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Kalpana2204/leetcode-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kalpana2204/leetcode-/tree/master/0226-invert-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Kalpana2204/leetcode-/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Kalpana2204/leetcode-/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
@@ -97,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Kalpana2204/leetcode-/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Kalpana2204/leetcode-/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kalpana2204/leetcode-/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Kalpana2204/leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
