@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kalpana2204/leetcode-/tree/master/0050-powx-n) |
+| [0415-add-strings](https://github.com/Kalpana2204/leetcode-/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kalpana2204/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Kalpana2204/leetcode-/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Recursion
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Kalpana2204/leetcode-/tree/master/0415-add-strings) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kalpana2204/leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kalpana2204/leetcode-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Kalpana2204/leetcode-/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
