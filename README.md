@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Kalpana2204/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/Kalpana2204/leetcode-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kalpana2204/leetcode-/tree/master/0997-find-the-town-judge) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kalpana2204/leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kalpana2204/leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Kalpana2204/leetcode-/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Queue
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kalpana2204/leetcode-/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Kalpana2204/leetcode-/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Kalpana2204/leetcode-/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kalpana2204/leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Kalpana2204/leetcode-/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Kalpana2204/leetcode-/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kalpana2204/leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
