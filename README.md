@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Kalpana2204/leetcode-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kalpana2204/leetcode-/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kalpana2204/leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/Kalpana2204/leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kalpana2204/leetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Kalpana2204/leetcode-/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Queue
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Kalpana2204/leetcode-/tree/master/0415-add-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Kalpana2204/leetcode-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
