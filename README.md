@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kalpana2204/leetcode-/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/Kalpana2204/leetcode-/tree/master/0415-add-strings) |
 ## Prefix Sum
 |  |
@@ -149,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kalpana2204/leetcode-/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kalpana2204/leetcode-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kalpana2204/leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
