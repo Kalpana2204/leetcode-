@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kalpana2204/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kalpana2204/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Kalpana2204/leetcode-/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/Kalpana2204/leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Kalpana2204/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kalpana2204/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/Kalpana2204/leetcode-/tree/master/0994-rotting-oranges) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kalpana2204/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Kalpana2204/leetcode-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Kalpana2204/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
