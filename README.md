@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kalpana2204/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kalpana2204/leetcode-/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kalpana2204/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kalpana2204/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kalpana2204/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kalpana2204/leetcode-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Kalpana2204/leetcode-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kalpana2204/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kalpana2204/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Kalpana2204/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Kalpana2204/leetcode-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Kalpana2204/leetcode-/tree/master/0876-middle-of-the-linked-list) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kalpana2204/leetcode-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kalpana2204/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kalpana2204/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Kalpana2204/leetcode-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Kalpana2204/leetcode-/tree/master/0496-next-greater-element-i) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kalpana2204/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kalpana2204/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Kalpana2204/leetcode-/tree/master/0496-next-greater-element-i) |
 ## Design
